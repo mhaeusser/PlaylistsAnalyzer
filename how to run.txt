@@ -1,12 +1,12 @@
 
-See https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook
+To learn about the Jupyter Notebook, see https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook
 
 For the following to run, Anaconda must be installed.
 
 
-In Anaconda Prompt:
+Run the Anaconda Prompt and change to a folder from which you can navigate down to your code.
 
 >jupyter notebook
 Should open browser tab with the URL http://localhost:8888/tree
 
-Then navigate to a local (git-controlled) .ipynb file.
+Open a local (git-controlled) .ipynb file.
