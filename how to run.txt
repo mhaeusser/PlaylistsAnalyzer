@@ -9,4 +9,4 @@ Run the Anaconda Prompt and change to a folder from which you can navigate down 
 >jupyter notebook
 Should open browser tab with the URL http://localhost:8888/tree
 
-Open a local (git-controlled) .ipynb file.
+Open the local (git-controlled) PlaylistsAnalyzer.ipynb file.
