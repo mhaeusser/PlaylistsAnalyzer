@@ -3,8 +3,7 @@ To learn about the Jupyter Notebook, see https://www.datacamp.com/community/tuto
 
 For the following to run, Anaconda must be installed.
 
-
-Run the Anaconda Prompt and change to a folder from which you can navigate down to your code.
+Run the Anaconda Prompt from a directory from which you can navigate down to the *.ipynb files.
 
 >jupyter notebook
 Should open browser tab with the URL http://localhost:8888/tree
